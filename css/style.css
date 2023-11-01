@@ -1,0 +1,13 @@
+main{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 1px;
+    box-shadow: inset;
+    
+}
+
+p{
+    border-style: outset;
+    border-width: 5px;
+    width: px;
+}
